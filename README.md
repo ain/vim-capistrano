@@ -1,5 +1,5 @@
 # vim-capistrano
 
-CUapistrano support from within Vim.
+[Capistrano](https://github.com/capistrano/capistrano) plugin for Vim.
 
-_Work in progress_. Please [subscribe to watch](https://github.com/ain/vim-capistrano/subscription) the project for completion :)
+__Work in progress__. Please [subscribe to watch](https://github.com/ain/vim-capistrano/subscription) the project for completion :)
