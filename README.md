@@ -2,4 +2,6 @@
 
 [Capistrano](https://github.com/capistrano/capistrano) plugin for Vim.
 
-__Work in progress__. Please [subscribe to watch](https://github.com/ain/vim-capistrano/subscription) the project for completion :)
+## Usage
+
+`:Cap <environment> <task>` to run a regular Capistrano task.
